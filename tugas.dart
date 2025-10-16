@@ -1,4 +1,3 @@
-// Nama file: main.dart
 // Tugas: Dart Essentials
 // Deskripsi: Program input data diri, list mata kuliah, harapan nilai, dan kata motivasi (asynchronous)
 
